@@ -20,9 +20,9 @@ class Product {
     }
     void displayProductInfo()
     {
-        System.out.println("Product Id:"+productId);
-        System.out.println("Product Name:"+productName);
-        System.out.println("Product Price:"+price);
+        System.out.println("Product Id : "+productId);
+        System.out.println("Product Name : "+productName);
+        System.out.println("Product Price : "+price);
     }
 }
     public class Practical2
