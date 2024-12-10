@@ -12,6 +12,7 @@ class Product {
         this.productId=productId;
         this.productName=productName;
         this.price =price;
+        count++;
     }
     double discount(double Price,double Discount)
     {
